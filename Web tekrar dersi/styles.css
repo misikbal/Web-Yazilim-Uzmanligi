@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    background-color:#202124;
+}
+.myButon{
+    background-color: white;
+    color:red;
+    font-size:25px;
+    border:10px solid red;
+    border-radius:999px;
+
+}
+.bosluk{
+    margin:100px;
+}
+.arama{
+    width:50%;
+    font-size:20px;
+    border-radius:999px;
+    border:1px solid red;
+}
