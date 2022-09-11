@@ -1,0 +1,29 @@
+
+.arkaplan{
+    background: url(https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif) no-repeat center;
+    background-size:cover;
+    height: 400px;
+    display: flex;
+    background-attachment: fixed;
+    align-items: center;
+    
+}
+h1{
+    color:white;
+    margin-left:500px;
+    align-self: center;
+}
+.bulundugukonum{
+    background-color: yellow;
+    color: black;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px;
+
+}
+body{
+    text-align: center;
+}
